@@ -39,4 +39,4 @@ To filter ads on all devices, set your router's DNS to the Pi's IP address, if n
 
 After setup, you have a pi zero running Pi-hole, blocking ads for your whole network. You can use the web dashboard to manage pi-hole and check stats.
 
-![Pi Zero Setup](images/pi-zero.png)
+![Pi Zero Setup](pi-zero.png)
